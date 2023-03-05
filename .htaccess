@@ -1,0 +1,3 @@
+<Files *.crx>
+    ForceType application/x-chrome-extension
+</Files>
